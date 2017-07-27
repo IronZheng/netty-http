@@ -1,0 +1,36 @@
+2017-07-25 17:54:59.632 [nioEventLoopGroup-3-1] INFO  com.rsmnode.server.nettyServer.EchoServerHandler channelRegistered
+2017-07-25 17:54:59.647 [nioEventLoopGroup-3-1] INFO  com.rsmnode.server.nettyServer.EchoServerHandler receive msg===>get-server-list
+2017-07-25 17:54:59.647 [nioEventLoopGroup-3-1] INFO  com.rsmnode.server.service.Service getAllService service start
+2017-07-25 17:56:07.131 [nioEventLoopGroup-3-2] INFO  com.rsmnode.server.nettyServer.EchoServerHandler channelRegistered
+2017-07-25 17:56:07.134 [nioEventLoopGroup-3-2] INFO  com.rsmnode.server.nettyServer.EchoServerHandler receive msg===>get-server-list
+2017-07-25 17:56:07.135 [nioEventLoopGroup-3-2] INFO  com.rsmnode.server.service.Service getAllService service start
+2017-07-25 17:56:07.630 [nioEventLoopGroup-3-3] INFO  com.rsmnode.server.nettyServer.EchoServerHandler channelRegistered
+2017-07-25 17:56:07.631 [nioEventLoopGroup-3-3] INFO  com.rsmnode.server.nettyServer.EchoServerHandler receive msg===>get-server-list
+2017-07-25 17:56:07.633 [nioEventLoopGroup-3-3] INFO  com.rsmnode.server.service.Service getAllService service start
+2017-07-25 17:56:07.819 [nioEventLoopGroup-3-4] INFO  com.rsmnode.server.nettyServer.EchoServerHandler channelRegistered
+2017-07-25 17:56:07.820 [nioEventLoopGroup-3-4] INFO  com.rsmnode.server.nettyServer.EchoServerHandler receive msg===>get-server-list
+2017-07-25 17:56:07.822 [nioEventLoopGroup-3-4] INFO  com.rsmnode.server.service.Service getAllService service start
+2017-07-25 17:56:07.989 [nioEventLoopGroup-3-5] INFO  com.rsmnode.server.nettyServer.EchoServerHandler channelRegistered
+2017-07-25 17:56:07.990 [nioEventLoopGroup-3-5] INFO  com.rsmnode.server.nettyServer.EchoServerHandler receive msg===>get-server-list
+2017-07-25 17:56:07.991 [nioEventLoopGroup-3-5] INFO  com.rsmnode.server.service.Service getAllService service start
+2017-07-25 17:56:08.158 [nioEventLoopGroup-3-6] INFO  com.rsmnode.server.nettyServer.EchoServerHandler channelRegistered
+2017-07-25 17:56:08.159 [nioEventLoopGroup-3-6] INFO  com.rsmnode.server.nettyServer.EchoServerHandler receive msg===>get-server-list
+2017-07-25 17:56:08.160 [nioEventLoopGroup-3-6] INFO  com.rsmnode.server.service.Service getAllService service start
+2017-07-25 17:56:08.349 [nioEventLoopGroup-3-7] INFO  com.rsmnode.server.nettyServer.EchoServerHandler channelRegistered
+2017-07-25 17:56:08.351 [nioEventLoopGroup-3-7] INFO  com.rsmnode.server.nettyServer.EchoServerHandler receive msg===>get-server-list
+2017-07-25 17:56:08.351 [nioEventLoopGroup-3-7] INFO  com.rsmnode.server.service.Service getAllService service start
+2017-07-25 17:56:08.543 [nioEventLoopGroup-3-8] INFO  com.rsmnode.server.nettyServer.EchoServerHandler channelRegistered
+2017-07-25 17:56:08.544 [nioEventLoopGroup-3-8] INFO  com.rsmnode.server.nettyServer.EchoServerHandler receive msg===>get-server-list
+2017-07-25 17:56:08.544 [nioEventLoopGroup-3-8] INFO  com.rsmnode.server.service.Service getAllService service start
+2017-07-25 17:56:08.697 [nioEventLoopGroup-3-1] INFO  com.rsmnode.server.nettyServer.EchoServerHandler channelRegistered
+2017-07-25 17:56:08.698 [nioEventLoopGroup-3-1] INFO  com.rsmnode.server.nettyServer.EchoServerHandler receive msg===>get-server-list
+2017-07-25 17:56:08.699 [nioEventLoopGroup-3-1] INFO  com.rsmnode.server.service.Service getAllService service start
+2017-07-25 17:56:08.874 [nioEventLoopGroup-3-2] INFO  com.rsmnode.server.nettyServer.EchoServerHandler channelRegistered
+2017-07-25 17:56:08.877 [nioEventLoopGroup-3-2] INFO  com.rsmnode.server.nettyServer.EchoServerHandler receive msg===>get-server-list
+2017-07-25 17:56:08.877 [nioEventLoopGroup-3-2] INFO  com.rsmnode.server.service.Service getAllService service start
+2017-07-25 17:56:09.050 [nioEventLoopGroup-3-3] INFO  com.rsmnode.server.nettyServer.EchoServerHandler channelRegistered
+2017-07-25 17:56:09.050 [nioEventLoopGroup-3-3] INFO  com.rsmnode.server.nettyServer.EchoServerHandler receive msg===>get-server-list
+2017-07-25 17:56:09.051 [nioEventLoopGroup-3-3] INFO  com.rsmnode.server.service.Service getAllService service start
+2017-07-25 17:56:09.219 [nioEventLoopGroup-3-4] INFO  com.rsmnode.server.nettyServer.EchoServerHandler channelRegistered
+2017-07-25 17:56:09.222 [nioEventLoopGroup-3-4] INFO  com.rsmnode.server.nettyServer.EchoServerHandler receive msg===>get-server-list
+2017-07-25 17:56:09.222 [nioEventLoopGroup-3-4] INFO  com.rsmnode.server.service.Service getAllService service start
